@@ -1,18 +1,29 @@
-## Hi there 👋
-## I am Naphtali
 
 <h1>Hello There, I am Naphtali<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-
-
-Nice to meet you there,
+Let's Get Started!
 
 <a href="https://github.com/Naphtali-cpu"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/naphtali.makori.1/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
 <a href="https://twitter.com/naphtalimakori"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/_naphtalimakori/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
-Here are some ideas to get you started:
+### Who is Naphtali
+  <pre>
+  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
+  technical systems to create impact.<br>
+  My name describes my qualities,
+  A: Active Learner
+  S: Sociable
+  H: Hard working
+  U: Ultra-precise
+  T: Trustworthy
+  O: Open minded to create new things
+  S: Supportive
+  H: Humble
+  </pre>
+
+### Questions you may have about me 😕
 
 - 🌱 I’m currently learning java at Moringa School ...
 - 👯 I’m looking to collaborate on cool project  ...
