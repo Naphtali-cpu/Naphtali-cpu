@@ -8,10 +8,11 @@ Let's Get Started!
 <a href="https://twitter.com/naphtalimakori"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/_naphtalimakori/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
-### Who is Naphtali
+<h3>The Questions You May Have 😕</h3>
+<details>
+  <summary>Who are you? 👨</summary>
   <pre>
-  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
-  technical systems to create impact.<br>
+  Passionate about tech and solving problem as well as addicted to programming.<br>
   My name describes my qualities,
   A: Active Learner
   S: Sociable
@@ -22,8 +23,9 @@ Let's Get Started!
   S: Supportive
   H: Humble
   </pre>
+</details>
 
-### Questions you may have about me 😕
+### Anything else? 😕
 
 - 🌱 I’m currently learning java at Moringa School ...
 - 👯 I’m looking to collaborate on cool project  ...
