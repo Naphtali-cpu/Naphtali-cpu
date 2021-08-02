@@ -11,18 +11,16 @@ Let's Get Started!
 <h3>The Questions You May Have 😕</h3>
 <details>
   <summary>Who are you? 👨</summary>
-  <pre>
   Passionate about tech and solving problem as well as addicted to programming.<br>
   My name describes my qualities,
-  A: Active Learner
-  S: Sociable
-  H: Hard working
-  U: Ultra-precise
-  T: Trustworthy
-  O: Open minded to create new things
-  S: Supportive
-  H: Humble
-  </pre>
+  * Active Learner
+  * Sociable
+  * Hard working
+  * Ultra-precise
+  * Trustworthy
+  * Open minded to create new things
+  * Supportive
+  * Humble
 </details>
 
 ### Anything else? 😕
