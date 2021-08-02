@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love Cycling long distance...
 
 ## :trophy: My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=Naphtali-cpu&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naphtali-cpu&theme=radical"/>|
 |---|---|
 
-<a align="left" >
-  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Naphtali-cpu&count_private=true&show_icons=true&theme=cobalt">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Naphtali-cpu&count_private=true&show_icons=true&theme=cobalt" />
-</a>
+
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Naphtali-cpu&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Naphtali-cpu&">
 </a>
