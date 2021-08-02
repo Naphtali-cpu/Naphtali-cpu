@@ -9,21 +9,6 @@ Let's Get Started!
 <a href="https://www.instagram.com/_naphtalimakori/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
 <h3>The Questions You May Have 😕</h3>
-<details>
-  <summary>Who are you? 👨</summary>
-  Passionate about tech and solving problem as well as addicted to programming.<br>
-  My name describes my qualities,
-  * Active Learner
-  * Sociable
-  * Hard working
-  * Ultra-precise
-  * Trustworthy
-  * Open minded to create new things
-  * Supportive
-  * Humble
-</details>
-
-### Anything else? 😕
 
 - 🌱 I’m currently learning java at Moringa School ...
 - 👯 I’m looking to collaborate on cool project  ...
