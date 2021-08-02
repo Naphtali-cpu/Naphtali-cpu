@@ -1,15 +1,15 @@
 ## Hi there 👋
 ## I am Naphtali
 
+<h1>Hello There, I am Naphtali<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+
 
 Nice to meet you there,
 
 <a href="https://github.com/Naphtali-cpu"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-
 <a href="https://www.facebook.com/naphtali.makori.1/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-
 <a href="https://twitter.com/naphtalimakori"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
-
 <a href="https://www.instagram.com/_naphtalimakori/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
 Here are some ideas to get you started:
