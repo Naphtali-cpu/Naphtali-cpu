@@ -1,6 +1,8 @@
 
 ## Hello There, I am Naphtali👋
 
+Result-driven Software Engineer with 1 year of experience background in creating and executing software solutions to enhance business scalability. Experienced in all aspects of the software development lifecycle, end to  end products from building, designing, documenting and maintaining vast codebases. Programming languages that I work with are; Java, Kotlin, C, Python, Node JS,  Android SDK for android applications, uses Figma for design and apps.diagram.net for system designs ans system architecture.
+
 
 ### Reach out!
 
