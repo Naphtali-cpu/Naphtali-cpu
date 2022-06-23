@@ -1,5 +1,5 @@
 
-<h1>Hello There, I am Naphtali</h1>👋
+## Hello There, I am Naphtali👋
 
 
 Let's Get Started!
