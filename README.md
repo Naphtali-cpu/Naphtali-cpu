@@ -1,5 +1,5 @@
 
-<h1>Hello There, I am Naphtali<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hello There, I am Naphtali<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h1>
 
 
 Let's Get Started!
